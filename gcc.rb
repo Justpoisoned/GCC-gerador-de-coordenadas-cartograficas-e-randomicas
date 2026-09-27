@@ -1,5 +1,5 @@
 #Gerador de coordenadas cartográficas aleatória
-#RC=Ramdom Coordenadas
+#RC = Coordenadas randômicas
 
 puts "\nGERADOR DE DE COORDENADAS ALEATÓRIAS by LIUSCY\n\n"
 
